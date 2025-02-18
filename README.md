@@ -2,7 +2,7 @@
 
 👀 I’m interested in developing applications which can be put to use by others and can see real-world application.
 
-🌱 I’m currently a student at Toronto Metropolitian University in my second year of computer engineering.
+🌱 I’m currently a student at Toronto Metropolitian University in my third year of computer engineering.
 
 ⚡ Fun fact: I love Star Wars, if you ever need someone to discuss Star Wars with, reach out!
 
